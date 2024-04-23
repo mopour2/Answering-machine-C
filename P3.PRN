@@ -1,0 +1,8 @@
+INITRQST   line 0 Event 20H, Data    0H 
+Start system******** 0**err=0
+            causing state change : 0 --> 2
+ KEYPRESS   line 0 Event 21H, Data   1BH 
+0**err=0
+   0*****
+   
+Count R =0   u=0 
